@@ -1,5 +1,7 @@
 # Daily Work Scheduler
 
+https://monicaclarelewis.github.io/work-scheduler/
+
 ## Description
 
 A daily work scheduler that saves text inputs and colour codes the hour depending on the time of day with grey for past activities, purple for current and green for future. This application allows the user to plan their day, whether it's for work, appointments or plans. 
