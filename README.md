@@ -24,7 +24,7 @@ The colour of the row changes throughout the day depending on the time so the us
 
 ## Usage
 
-
+![Work scheduler](https://user-images.githubusercontent.com/118432326/221901051-13aba914-e352-4fce-9049-c9814d7c386c.png)
 
 ## Credits
 
