@@ -4,16 +4,6 @@
 
 A daily work scheduler that saves text inputs and colour codes the hour depending on the time of day with grey for past activities, purple for current and green for future. This application allows the user to plan their day, whether it's for work, appointments or plans. 
 
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 Follow the link above to access the scheduler. The time of day is displayed in column one, text can be inputed into the centre column and the inputed text can be saved using the button in the final column.
